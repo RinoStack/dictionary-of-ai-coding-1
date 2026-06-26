@@ -1,0 +1,9 @@
+{
+  "name": "dictionary-of-ai-coding",
+  "version": "1.0.0",
+  "description": "AI coding jargon explained",
+    "dev": "next dev",
+    "build": "next build"
+    "next": "^14.0.0",
+    "react": "^18.2.0"
+}
